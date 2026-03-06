@@ -10,6 +10,8 @@ INTERNSHIP DURATION : 6 WEEKS
 
 INTERN ID :  CTIS5094
 
+INTERNSHIP MENTOR : NEELA SANTOSH
+
 # Handwritten Digit Classification using CNN (TensorFlow)
 
 ## 📌 Project Overview
